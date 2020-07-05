@@ -60,5 +60,6 @@ public class MainActivity extends AppCompatActivity {
         });
 //        Intent intent=new Intent(this,AIDLService.class);
 //        bindService(intent,serviceConnection,BIND_AUTO_CREATE);
+        //abc
     }
 }
